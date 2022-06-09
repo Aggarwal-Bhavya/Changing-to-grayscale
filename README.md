@@ -9,3 +9,7 @@ The aim of this webpage is to transform a regular image to a grayscale image. In
 ### Algorithm
 Here, we use the average method (avg = (R+G+B)/3) to convert an image's pixels to grayscale values.
 <br>
+
+
+https://user-images.githubusercontent.com/87543207/172914755-92ee9d7f-3238-410e-a8ec-7a748055871c.mp4
+
